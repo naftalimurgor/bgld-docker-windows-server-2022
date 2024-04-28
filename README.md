@@ -30,7 +30,7 @@ Quick Start
 
 3. You can then access the daemon's output thanks to the [docker logs command]( https://docs.docker.com/reference/commandline/cli/#logs)
 
-        docker logs -f bgld
+        docker logs -f bgld-windows-server
 
 4. Install optional init scripts for upstart and systemd are in the `init` directory.
 
